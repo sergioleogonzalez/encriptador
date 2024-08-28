@@ -1,5 +1,5 @@
 body {
-    background-image: url(/img/video.gif);
+    background-image: url("./img/video.gif");
     margin: 0;
     padding: 0;
     color: #333;
